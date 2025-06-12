@@ -5,4 +5,4 @@ Here is a link if you'd like to provide anonymous feedback!
 https://forms.gle/uCf1KGHgZW9uRDyf8
 
 * [Week 1](week01): pointers, command-line arguments, recursion, intro to MIPS
-* [Week 2](week02): Simplifying C and translating into MIPS
+* [Week 2](week02): simplifying C and translating into MIPS
