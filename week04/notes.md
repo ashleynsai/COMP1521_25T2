@@ -21,7 +21,7 @@ array[row][col]
 
 # Structs
 
-![Screenshot 2025-06-26 at 12.41.21 pm](/Users/abracadabra/Library/Application Support/typora-user-images/Screenshot 2025-06-26 at 12.41.21 pm.png)
+![struct-ss](struct.png)
 
 In MIPS, it would look something like this:
 
