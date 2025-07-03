@@ -8,3 +8,4 @@ https://forms.gle/uCf1KGHgZW9uRDyf8
 * [Week 2](week02): simplifying C and translating into MIPS
 * [Week 3](week03): memory and arrays in MIPS
 * [Week 4](week04): 2D arrays, structs and functions in MIPS
+* [Week 5](week05): numbers!
