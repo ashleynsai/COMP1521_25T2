@@ -10,3 +10,4 @@ https://forms.gle/uCf1KGHgZW9uRDyf8
 * [Week 4](week04): 2D arrays, structs and functions in MIPS
 * [Week 5](week05): numbers!
 * [Week 7](week07): two's complement and floating point numbers (IEEE 754)
+* [Week 8](week08): files, file metadata (stat)
